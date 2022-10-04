@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>Pakiet Rekrut</title>
-      <link>https://szarq.github.io/cennik/rekrut/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://szarq.github.io/cennik/rekrut/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Kontakt</title>
       <link>https://szarq.github.io/kontakt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -46,6 +37,26 @@ Jednostka Paintball Kasina</description>
     </item>
     
     <item>
+      <title>Ognisko dla drużyny</title>
+      <link>https://szarq.github.io/cennik/grill/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://szarq.github.io/cennik/grill/</guid>
+      <description>Ognisko dla drużyny obejmuje:
+Rozpalenie i opieka nad ogniskiem Opał CENA 150 PLN *Żywnosć i napoje we własnym zakresie.</description>
+    </item>
+    
+    <item>
+      <title>Pakiet Kapitan</title>
+      <link>https://szarq.github.io/cennik/kapitan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://szarq.github.io/cennik/kapitan/</guid>
+      <description>Pakiet Kapitan obejmuje:
+Uzbrojenie (Marker, Butla, HP) Umundurowanie Maska Rękawice Kamizelka ochronna Nielimitowane HP 300 sztuk amunicji Aż 2 godziny rozgrywki! CENA 90 PLN Istnieje możliwość przedłużenia rozgrywki.</description>
+    </item>
+    
+    <item>
       <title>Pakiet Komandos</title>
       <link>https://szarq.github.io/cennik/komandos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -53,6 +64,16 @@ Jednostka Paintball Kasina</description>
       <guid>https://szarq.github.io/cennik/komandos/</guid>
       <description>Pakiet Komandos obejmuje:
 Uzbrojenie (Marker, Butla, HP) Umundurowanie Maska Rękawice Kamizelka ochronna Nielimitowane HP 500 sztuk amunicji Aż 3 godziny rozgrywki! CENA 110 PLN Istnieje możliwość przedłużenia rozgrywki.</description>
+    </item>
+    
+    <item>
+      <title>Pakiet Rekrut</title>
+      <link>https://szarq.github.io/cennik/rekrut/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://szarq.github.io/cennik/rekrut/</guid>
+      <description>Pakiet Rekrut obejmuje:
+Uzbrojenie (Marker, Butla, HP) Umundurowanie Maska Rękawice Nielimitowane HP 100 sztuk amunicji 2 godziny rozgrywki! CENA 70 PLN Istnieje możliwość przedłużenia rozgrywki.</description>
     </item>
     
   </channel>
