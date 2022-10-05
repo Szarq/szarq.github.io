@@ -5,20 +5,12 @@
     <link>https://szarq.github.io/tags/</link>
     <description>Recent content in Tags on Jednostka Paintball Kasina</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://szarq.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>index</title>
-      <link>https://szarq.github.io/tags/index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://szarq.github.io/tags/index/</guid>
-      <description></description>
-    </item>
-    
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://szarq.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>markdown</title>
       <link>https://szarq.github.io/tags/markdown/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://szarq.github.io/tags/markdown/</guid>
       <description></description>
@@ -27,9 +19,18 @@
     <item>
       <title>text</title>
       <link>https://szarq.github.io/tags/text/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://szarq.github.io/tags/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://szarq.github.io/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://szarq.github.io/tags/index/</guid>
       <description></description>
     </item>
     
