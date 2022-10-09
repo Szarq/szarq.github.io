@@ -1,0 +1,5 @@
+.swiper-button img {
+    width: 30% !important;
+    height: 30vh !important;
+    object-fit: cover;
+  }
