@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jednostka Paintball Kasina</title>
-    <link>https://szarq.github.io/</link>
+    <link>http://paintball-kasina.pl/</link>
     <description>Recent content on Jednostka Paintball Kasina</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate><atom:link href="https://szarq.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>pl</language>
+    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate><atom:link href="http://paintball-kasina.pl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fota 1</title>
-      <link>https://szarq.github.io/galeria/komandos/</link>
+      <link>http://paintball-kasina.pl/galeria/komandos/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
       
-      <guid>https://szarq.github.io/galeria/komandos/</guid>
+      <guid>http://paintball-kasina.pl/galeria/komandos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fota 2</title>
-      <link>https://szarq.github.io/galeria/fotss/</link>
+      <link>http://paintball-kasina.pl/galeria/fotss/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
       
-      <guid>https://szarq.github.io/galeria/fotss/</guid>
+      <guid>http://paintball-kasina.pl/galeria/fotss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pakiet Komandos</title>
-      <link>https://szarq.github.io/cennik/komandos/</link>
+      <link>http://paintball-kasina.pl/cennik/komandos/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://szarq.github.io/cennik/komandos/</guid>
+      <guid>http://paintball-kasina.pl/cennik/komandos/</guid>
       <description>Pakiet Komandos obejmuje:
 Uzbrojenie (Marker, Butla, HP) Umundurowanie Maska Rękawice Kamizelka ochronna Nielimitowane HP 500 sztuk amunicji Aż 3 godziny rozgrywki! CENA 110 PLN Istnieje możliwość przedłużenia rozgrywki.</description>
     </item>
     
     <item>
       <title>Pakiet Kapitan</title>
-      <link>https://szarq.github.io/cennik/kapitan/</link>
+      <link>http://paintball-kasina.pl/cennik/kapitan/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://szarq.github.io/cennik/kapitan/</guid>
+      <guid>http://paintball-kasina.pl/cennik/kapitan/</guid>
       <description>Pakiet Kapitan obejmuje:
 Uzbrojenie (Marker, Butla, HP) Umundurowanie Maska Rękawice Kamizelka ochronna Nielimitowane HP 300 sztuk amunicji Aż 2 godziny rozgrywki! CENA 90 PLN Istnieje możliwość przedłużenia rozgrywki.</description>
     </item>
     
     <item>
       <title>Pakiet Rekrut</title>
-      <link>https://szarq.github.io/cennik/rekrut/</link>
+      <link>http://paintball-kasina.pl/cennik/rekrut/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://szarq.github.io/cennik/rekrut/</guid>
+      <guid>http://paintball-kasina.pl/cennik/rekrut/</guid>
       <description>Pakiet Rekrut obejmuje:
 Uzbrojenie (Marker, Butla, HP) Umundurowanie Maska Rękawice Nielimitowane HP 100 sztuk amunicji 2 godziny rozgrywki! CENA 70 PLN Istnieje możliwość przedłużenia rozgrywki.</description>
     </item>
     
     <item>
       <title>Kontakt</title>
-      <link>https://szarq.github.io/kontakt/</link>
+      <link>http://paintball-kasina.pl/kontakt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://szarq.github.io/kontakt/</guid>
+      <guid>http://paintball-kasina.pl/kontakt/</guid>
       <description>Jednostka Paintball Kasina
 Kasina Wielka
 34-741 Kasina Wielka
@@ -77,10 +77,10 @@ Jednostka Paintball Kasina</description>
     
     <item>
       <title>Ognisko dla drużyny</title>
-      <link>https://szarq.github.io/cennik/grill/</link>
+      <link>http://paintball-kasina.pl/cennik/grill/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://szarq.github.io/cennik/grill/</guid>
+      <guid>http://paintball-kasina.pl/cennik/grill/</guid>
       <description>Ognisko dla drużyny obejmuje:
 Rozpalenie i opieka nad ogniskiem Opał CENA 150 PLN *Żywnosć i napoje we własnym zakresie.</description>
     </item>

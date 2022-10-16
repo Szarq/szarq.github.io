@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jednostka Paintball Kasina</title>
-    <link>https://szarq.github.io/categories/</link>
+    <link>http://paintball-kasina.pl/categories/</link>
     <description>Recent content in Categories on Jednostka Paintball Kasina</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://szarq.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>pl</language><atom:link href="http://paintball-kasina.pl/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
