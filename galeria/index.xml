@@ -5,25 +5,6 @@
     <link>http://paintball-kasina.pl/galeria/</link>
     <description>Recent content in Galeria on Jednostka Paintball Kasina</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pl</language>
-    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate><atom:link href="http://paintball-kasina.pl/galeria/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Fota 1</title>
-      <link>http://paintball-kasina.pl/galeria/komandos/</link>
-      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      
-      <guid>http://paintball-kasina.pl/galeria/komandos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fota 2</title>
-      <link>http://paintball-kasina.pl/galeria/fotss/</link>
-      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      
-      <guid>http://paintball-kasina.pl/galeria/fotss/</guid>
-      <description></description>
-    </item>
-    
+    <language>pl</language><atom:link href="http://paintball-kasina.pl/galeria/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,17 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://paintball-kasina.pl/galeria/komandos/</loc>
-    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
-  </url><url>
-    <loc>http://paintball-kasina.pl/galeria/fotss/</loc>
-    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
-  </url><url>
     <loc>http://paintball-kasina.pl/</loc>
-    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
-  </url><url>
-    <loc>http://paintball-kasina.pl/galeria/</loc>
-    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://paintball-kasina.pl/cennik/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
@@ -36,6 +27,8 @@
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://paintball-kasina.pl/categories/</loc>
+  </url><url>
+    <loc>http://paintball-kasina.pl/galeria/</loc>
   </url><url>
     <loc>http://paintball-kasina.pl/tags/index/</loc>
   </url><url>
