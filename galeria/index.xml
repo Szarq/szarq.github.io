@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>Galeria on Jednostka Paintball Kasina</title>
-    <link>http://paintball-kasina.pl/galeria/</link>
+    <link>https://paintball-kasina.pl/galeria/</link>
     <description>Recent content in Galeria on Jednostka Paintball Kasina</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pl</language><atom:link href="http://paintball-kasina.pl/galeria/index.xml" rel="self" type="application/rss+xml" />
+    <language>pl</language><atom:link href="https://paintball-kasina.pl/galeria/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="https://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://paintball-kasina.pl/</loc>
+    <loc>https://paintball-kasina.pl/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://paintball-kasina.pl/cennik/</loc>
+    <loc>https://paintball-kasina.pl/cennik/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://paintball-kasina.pl/tags/markdown/</loc>
+    <loc>https://paintball-kasina.pl/tags/markdown/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://paintball-kasina.pl/cennik/komandos/</loc>
+    <loc>https://paintball-kasina.pl/cennik/komandos/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://paintball-kasina.pl/tags/</loc>
+    <loc>https://paintball-kasina.pl/tags/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://paintball-kasina.pl/tags/text/</loc>
+    <loc>https://paintball-kasina.pl/tags/text/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://paintball-kasina.pl/cennik/kapitan/</loc>
+    <loc>https://paintball-kasina.pl/cennik/kapitan/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://paintball-kasina.pl/cennik/rekrut/</loc>
+    <loc>https://paintball-kasina.pl/cennik/rekrut/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://paintball-kasina.pl/categories/</loc>
+    <loc>https://paintball-kasina.pl/categories/</loc>
   </url><url>
-    <loc>http://paintball-kasina.pl/galeria/</loc>
+    <loc>https://paintball-kasina.pl/galeria/</loc>
   </url><url>
-    <loc>http://paintball-kasina.pl/tags/index/</loc>
+    <loc>https://paintball-kasina.pl/tags/index/</loc>
   </url><url>
-    <loc>http://paintball-kasina.pl/kontakt/</loc>
+    <loc>https://paintball-kasina.pl/kontakt/</loc>
   </url><url>
-    <loc>http://paintball-kasina.pl/cennik/grill/</loc>
+    <loc>https://paintball-kasina.pl/cennik/grill/</loc>
   </url>
 </urlset>

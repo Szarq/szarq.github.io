@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jednostka Paintball Kasina</title>
-    <link>http://paintball-kasina.pl/tags/</link>
+    <link>https://paintball-kasina.pl/tags/</link>
     <description>Recent content in Tags on Jednostka Paintball Kasina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://paintball-kasina.pl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://paintball-kasina.pl/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>markdown</title>
-      <link>http://paintball-kasina.pl/tags/markdown/</link>
+      <link>https://paintball-kasina.pl/tags/markdown/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://paintball-kasina.pl/tags/markdown/</guid>
+      <guid>https://paintball-kasina.pl/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>http://paintball-kasina.pl/tags/text/</link>
+      <link>https://paintball-kasina.pl/tags/text/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://paintball-kasina.pl/tags/text/</guid>
+      <guid>https://paintball-kasina.pl/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>http://paintball-kasina.pl/tags/index/</link>
+      <link>https://paintball-kasina.pl/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://paintball-kasina.pl/tags/index/</guid>
+      <guid>https://paintball-kasina.pl/tags/index/</guid>
       <description></description>
     </item>
     
